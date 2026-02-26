@@ -1,4 +1,4 @@
-# Syst-me-Basique-de-Simulation-de-Guichet
+# Systeme-Basique-de-Simulation-de-Guichet
 
 1. Présentation du Projet :
 
